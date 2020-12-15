@@ -9,6 +9,6 @@ Firebase API implementation \
 Geocoding/Geolocation \
 Google Maps \
 Media upload \
-Custom Widgets. \
+Custom Widgets. 
 
 
